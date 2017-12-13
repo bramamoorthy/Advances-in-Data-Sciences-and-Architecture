@@ -1,0 +1,7 @@
+Databricks notebooks:
+
+Part B: https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/8665703584001717/4143881231916772/1539192638631889/latest.html
+
+Part C: https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/8665703584001717/3003019461309781/1539192638631889/latest.html
+
+Part D: https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/8665703584001717/4011369894344488/1539192638631889/latest.html
