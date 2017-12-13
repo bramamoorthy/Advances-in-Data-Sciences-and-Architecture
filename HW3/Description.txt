@@ -1,3 +1,0 @@
-Generate a list of five common queries for your data.
-Implement the five common queries.
-Time the implementation of the five common queries and give an estimate of how they scale.
