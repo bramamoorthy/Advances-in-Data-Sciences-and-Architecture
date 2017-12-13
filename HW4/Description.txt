@@ -1,0 +1,17 @@
+Part A - Set up Apache Spark
+Sign Up for Databricks Community Edition https://accounts.cloud.databricks.com/registration.html#signup/community
+Read the Databricks User Guide https://docs.databricks.com/user-guide/index.html
+
+Part B - Structured Streaming (30 Points)
+On your project data
+Set up a Structured Streaming analysis of your project data. https://docs.databricks.com/spark/latest/structured-streaming/index.html
+
+Part C - MLlib and Machine Learning (40 Points)
+On your project data
+Apply a MLlib and Machine Learning analysis of your project data. https://docs.databricks.com/spark/latest/mllib/index.html
+
+Part D - GraphX and GraphFrames or (30 Points)
+On your project data
+Set up a GraphX and GraphFrames analysis of your project data. https://docs.databricks.com/spark/latest/graph-analysis/index.html
+OR
+Apply a Deep Learning of your project data in Apache Spark. https://docs.databricks.com/applications/deep-learning/index.html
